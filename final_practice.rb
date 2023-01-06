@@ -11,7 +11,7 @@ end
 
 #2: Write a method named custom_greeting that prints out a greeting WITH a specific name.
 
-ef custom_greeting(name)
+def custom_greeting(name)
   p "Oh hey there, #{name}!"
 end
 
